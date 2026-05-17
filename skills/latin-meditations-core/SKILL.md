@@ -9,11 +9,11 @@ description: Use this skill when creating, revising, reviewing, or checking cita
 
 Read the relevant shared guidelines before working on a meditation:
 
-- `guidelines/general-meditation-principles.md`
-- `guidelines/latin-style.md`
-- `guidelines/citation-style.md`
-- `guidelines/source-verification.md`
-- `guidelines/review-checklist.md`
+- `../../guidelines/general-meditation-principles.md`
+- `../../guidelines/latin-style.md`
+- `../../guidelines/citation-style.md`
+- `../../guidelines/source-verification.md`
+- `../../guidelines/review-checklist.md`
 
 Then read the local project overlay. Project-specific rules override these
 general rules when they are stricter or more concrete.
@@ -32,4 +32,5 @@ general rules when they are stricter or more concrete.
 
 ## Review
 
-Use `guidelines/review-checklist.md` together with the local project checklist.
+Use `../../guidelines/review-checklist.md` together with the local project
+checklist.

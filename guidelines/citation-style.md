@@ -9,8 +9,7 @@
   period inside the italic quotation and place the sentence period after the
   parenthetical reference.
 - Omissions within quotations use the typographic ellipsis character with spaces
-  on both sides: `verbum ... verbum` in plain examples, and the true ellipsis
-  character in final meditation text.
+  on both sides: `verbum … verbum`.
 - Direct quotations must be real, traceable, and substantially faithful to a
   reliable source.
 - Prefer short, luminous quotations over long documentary blocks.
