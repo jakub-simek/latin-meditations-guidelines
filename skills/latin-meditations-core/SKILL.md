@@ -9,6 +9,8 @@ description: Use this skill when creating, revising, reviewing, or checking cita
 
 Read the relevant shared guidelines before working on a meditation:
 
+- `../../guidelines/project-overlay-guide.md` when setting up or revising a
+  consuming project's local overlay
 - `../../guidelines/general-meditation-principles.md`
 - `../../guidelines/latin-style.md`
 - `../../guidelines/citation-style.md`
